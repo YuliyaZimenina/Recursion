@@ -3,7 +3,7 @@ A simple Java program demonstrating recursive and iterative methods for calculat
 
 ## Table of contents
 1. [Description](#description)
-2. [Tehnologies](#technologies)
+2. [Technologies](#technologies)
 3. [Installation and Launch](#installation-and-launch)
 4. [Author](#author)
 5. [License](#license)
@@ -21,7 +21,7 @@ in programming.
 - **Iterative Method:** Calculates the factorial using a loop-based approach.
 - Outputs factorials for numbers 3, 4, and 5 as a demonstration.
 
-## Techologies
+## Technologies
 
 - **Java**: Version 17.
 
