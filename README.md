@@ -1,4 +1,4 @@
-# Recursion
+# <h1 align="center">Recursion</h1>
 A simple Java program demonstrating recursive and iterative methods for calculating the factorial of a number. 
 
 ## Table of contents
