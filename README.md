@@ -32,7 +32,7 @@ To run this project, you need:
 - Java Development Kit (JDK) 17 or higher installed.
 - A Java IDE (IntelliJ  IDEA, Eclipse, etc.) or a text editor and command-line tools.
 
-  ### Installation
+### Installation
   
  1. Clone the repository:
    ```bash
